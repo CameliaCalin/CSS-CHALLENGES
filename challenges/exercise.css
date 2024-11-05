@@ -1,0 +1,60 @@
+/* For challenge 1 */
+#header1 {
+    text-align: center;
+}
+
+#header2 {
+    text-align: center;
+    color: red;
+}
+
+.box {
+    background: orange;
+    padding: 16px;
+}
+
+.text {
+    text-align: center;
+}
+
+#color {
+    color: yellowgreen;
+}
+
+#text {
+    background-color: blue;
+}
+
+.size {
+    width: 25vw;
+    height: 10vh;
+}
+
+#border {
+    border: 3px dotted red
+}
+
+#container {
+    border-top: 10px dotted red;
+    border-bottom: 10px dashed pink;
+    border-right: 10px solid green;
+    border-left: 10px double black;
+}
+
+#boxmodel {
+    margin: 10px;
+    padding: 8px;
+    background-color: orangered;
+    border: 2px solid green;
+    box-sizing: border-box;
+    box-shadow: 13px 83px 2px 2px #1e1e1e;
+    border-radius: 8px 4px 0px 6px;
+}
+
+#text-ex {
+    color: yellow;
+    text-align: center;
+    text-decoration: line-through green wavy 1px;
+    text-shadow: 8px 8px 4px pink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
